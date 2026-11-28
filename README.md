@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.foreignseal.com/">
+  <a href="https://foreignseal.com/">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
