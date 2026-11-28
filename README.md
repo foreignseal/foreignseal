@@ -14,7 +14,7 @@
       <img
         src="./card-theme-dark.svg"
         alt="Homepage — foreignseal.com"
-        width=50%
+        width=100%
       />
     </picture>
   </a>
